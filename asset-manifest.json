@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YANADO/static/css/main.74fcb422.css",
+    "main.js": "/YANADO/static/js/main.01f2c36b.js",
+    "static/js/787.c3c49e6e.chunk.js": "/YANADO/static/js/787.c3c49e6e.chunk.js",
+    "index.html": "/YANADO/index.html",
+    "main.74fcb422.css.map": "/YANADO/static/css/main.74fcb422.css.map",
+    "main.01f2c36b.js.map": "/YANADO/static/js/main.01f2c36b.js.map",
+    "787.c3c49e6e.chunk.js.map": "/YANADO/static/js/787.c3c49e6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74fcb422.css",
+    "static/js/main.01f2c36b.js"
+  ]
+}
