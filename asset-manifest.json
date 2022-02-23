@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/YANADO/static/css/main.859d045f.css",
-    "main.js": "/YANADO/static/js/main.fc96e30c.js",
+    "main.js": "/YANADO/static/js/main.562064fb.js",
     "static/js/787.c3c49e6e.chunk.js": "/YANADO/static/js/787.c3c49e6e.chunk.js",
     "index.html": "/YANADO/index.html",
     "main.859d045f.css.map": "/YANADO/static/css/main.859d045f.css.map",
-    "main.fc96e30c.js.map": "/YANADO/static/js/main.fc96e30c.js.map",
+    "main.562064fb.js.map": "/YANADO/static/js/main.562064fb.js.map",
     "787.c3c49e6e.chunk.js.map": "/YANADO/static/js/787.c3c49e6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.859d045f.css",
-    "static/js/main.fc96e30c.js"
+    "static/js/main.562064fb.js"
   ]
 }
