@@ -7,4 +7,4 @@ React, Localstorage, Redux를 이용하여 개발한 TODOLIST 웹페이지 입�
 페이지 이동간에도 lotto번호 정보가 유효합니다. 
 저의 메인포토폴리오에도 설명과 첨부가 되어 있습니다.
 ## YANADO 사이트 링크 입니다. https://jinhee5577.github.io/YANADO/
-### 저의 YANADO의 자세한 코드내용은 여기로 보시면 됩니다. https://github.com/jinhee5577/TODO_LIST
+### 저의 YANADO의 자세한 코드내용은 여기로 보시면 됩니다. https://github.com/jinhee5577/TODO_LIST/tree/master/src
